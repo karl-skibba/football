@@ -1,5 +1,8 @@
 # Google Research Football
 
+## added by karl.skibba
+2021.09.27 14:40
+
 This repository contains an RL environment based on open-source game Gameplay
 Football. <br> It was created by the Google Brain team for research purposes.
 
